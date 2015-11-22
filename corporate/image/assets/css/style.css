@@ -4,12 +4,19 @@
 
 .jfk-button, .jfk-button-action{
     position:relative;
-    left:9em;
-    bottom:7em; 
+    left:7em;
+    bottom:6em; 
     font-family: 'Titillium Web'; 
-    font-size: 13px;
-    letter-spacing: .2em; 
+    font-size: .5em;
+    font-weight: 400;
+    padding: 12px;
+    position: relative;
     text-transform: uppercase;
+    background: none repeat scroll 0 0 #212639;
+    border: 1px solid rgb(113,168,236);
+    color: #fff;
+    cursor: pointer;
+    width: 200px;
 }
 
 .ss-form-question label { 
