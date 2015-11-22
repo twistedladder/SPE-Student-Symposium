@@ -318,7 +318,7 @@ hr {
     color: #71a8ec;
     display: block;
     font-family: 'Titillium Web';
-    font-size: 1em;
+    font-size: 1.2em;
     font-weight: 400;
     letter-spacing: 0.2em;
     margin: 2.9em auto 0;
@@ -1534,6 +1534,7 @@ ul.social-buttons li a:active {
 .planContainer .price p {
 	background: none repeat scroll 0 0 #2a3049;
     color: #fff;
+    font-family: 'Lato';
     font-size: 1.2em;
     font-weight: 500;
     height: 2.6em;
@@ -1544,7 +1545,7 @@ ul.social-buttons li a:active {
 }
 
 .planContainer .price p.bestPlanPrice {
-	background: #1ee68a;
+	background: #71a8ec;
 	color: #212639;
 }
 
