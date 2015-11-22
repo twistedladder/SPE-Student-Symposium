@@ -1,34 +1,7 @@
 #swag{
     
 }
-<<<<<<< HEAD
-.no-touch .nl-form .nl-submit:hover, .no-touch .nl-form .nl-submit:active {
-	background: rgba(113, 168, 236, 0.40);
-	transition: all 0.5s ease;
-	-moz-transition: all 0.5s ease;
-	-webkit-transition: all 0.5s ease;
-	-o-transition: all 0.5s ease;
-	color: #fff;
-}
 
-.no-touch .nl-form .nl-submit:hover:before {
-	background: #58a199;
-}
-.nl-submit-wrap {
-	margin: 1em auto 0;
-}
-.nl-dd ul li.nl-dd-checked:before, .nl-submit:before, .nl-field-go:before {
-	speak: none;
-	font-style: normal;
-	font-weight: normal;
-	font-variant: normal;
-	text-transform: none;
-	-webkit-font-smoothing: antialiased;
-	color: #71a8ec;
-}
-=======
-
->>>>>>> origin/master
 .jfk-button, .jfk-button-action{
     position:relative;
     left:9em;
