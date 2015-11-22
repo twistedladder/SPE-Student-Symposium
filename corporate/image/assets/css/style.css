@@ -2,22 +2,22 @@
     
 }
 .jfk-button, .jfk-button-action {
-    position:relative;left:9em;bottom:7em;
+    position:relative;left:9em;bottom:7em; font-family: 'Lato'; letter-spacing: .2em; text-transform: uppercase;
 }
 .ss-form-question label { 
     width: 25%; float: left; margin: 3px 0 3px 0; 
 }
 .ss-form-question span { 
-    display: block; margin: 3px 3px 3px 3px; font-size: 1.2em; font-weight: bold; 
+    display: block; margin: 3px 3px 3px 3px; font-family: 'Lato'; font-size: 1em; font-weight: lighter; 
 }
 .ss-form-question input{
-     width: 80%; border: 1px solid #000; padding: 5px;
+     width: 80%; border: 1px solid #000; font-family: 'Lato'; padding: 5px;
 }
 .ss-form-question select{
-     width: 80%; border: 1px solid #000; padding: 5px;
+     width: 80%; border: 1px solid #000; font-family: 'Lato'; padding: 5px;
 }
 .ss-form-question textarea{
-     width: 50%; border: 1px solid #000; padding: 5px;
+     width: 50%; border: 1px solid #000; font-family: 'Lato'; padding: 5px;
 }
 .ss-form-container, .ss-resp-card {
   background-color: rgb(47,79,79);

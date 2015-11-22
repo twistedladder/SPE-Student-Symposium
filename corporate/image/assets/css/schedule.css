@@ -37,7 +37,7 @@
 }
 
 .tabs nav ul li :hover {
-    background: #1bd982;
+    background: #71a8ec;
     -moz-transition: all 0.2s ease-in-out 0.2s;
     -o-transition: all 0.2s ease-in-out 0.2s;
     -webkit-transition: all 0.2s ease-in-out 0.2s;
@@ -46,7 +46,7 @@
 
 .tabs nav li.tab-current {
 
-	background:#1bd982;
+	background:#71a8ec;
 }
 
 .tabs nav a {

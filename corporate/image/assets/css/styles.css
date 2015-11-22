@@ -36,7 +36,7 @@ strong{
  
 body {
 	color: #7a7a7a;
-	font-family: 'Raleway', sans-serif;
+	font-family: 'Lato', sans-serif;
 	font-size: 14px;
 	font-style: normal;
 	line-height:1.5;
@@ -77,7 +77,7 @@ a:focus {
 
 h1 {
 	font-size: 2em;
-	color: #FFFFFF;
+	color: #f1f1f1;
 }
 
 h2 {
@@ -191,7 +191,7 @@ html{
 
 hr {
 	width: 8%;
-	border: solid 1px #1bd982;
+	border: solid 1px #71A8EC;
 	margin-top:18px;
 	margin-bottom:25px;
 }
@@ -280,7 +280,7 @@ hr {
 }
 
 #title_hr {
-	border: 1px solid #1bd982;
+	border: 1px solid #71A8EC;
 	margin: 1.8em auto 2.9em;
 	width: 50px;
 }
@@ -292,30 +292,34 @@ hr {
 }
 
 .landing-text-pos h1{
-
-    font-size: 3.5em;
-    font-weight: 700;
+    color: #f1f1f1;
+    font-family: 'Montserrat';
+    font-size: 3.8em;
+    font-weight: 400;
     letter-spacing: 0.2em;
     text-transform: uppercase;
 	padding: 0 10%;
 }
 
 .landing-text-pos p{
-	color: #ffffff;
-    font-size: 1.5em;
-    letter-spacing: 0.2em;
-    line-height: 1.5em;
+	color: #f1f1f1;
+    font-family: 'raleway';
+    font-size: 2.2em;
+    font-weight: 300;
+    letter-spacing: .15em;
+    line-height: 2em;
     padding: 0 30%;
     text-transform: uppercase;
 }
 
 
 .learn-more-btn{
-	background: none repeat scroll 0 0 rgba(27, 206, 124, 1);
-    color: #363738;
+	background: none repeat scroll 0 0 rgba(113, 168, 236, 1);
+    color: #71a8ec;
     display: block;
+    font-family: 'Titillium Web';
     font-size: 1em;
-    font-weight: 600;
+    font-weight: 400;
     letter-spacing: 0.2em;
     margin: 2.9em auto 0;
     padding: 15px;
@@ -379,10 +383,10 @@ hr {
 }
 
 .navbar-default .navbar-nav > li > a {
-	color: #fff;
-	font-family: raleway;
+	color: #f1f1f1;
+	font-family: Montserrat;
 	font-size: 1em;
-	font-weight: 500;
+	font-weight: 400;
 	letter-spacing: 0.2em;
 	text-transform: uppercase;
 }
@@ -413,13 +417,13 @@ hr {
 
 .navbar-default .navbar-nav > li > a:hover, 
 .navbar-default .navbar-nav > li > a:focus {
-	color: rgba(27, 206, 124, 1);
+	color: rgba(113, 168, 236, 1);
 }
 
 .navbar-default .navbar-nav > .active > a, 
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus {
-	color: rgba(27, 206, 124, 0.5);
+	color: rgba(113, 168, 236, 0.5);
 	background: none;
 }
 
@@ -466,9 +470,9 @@ h1.arrow {
 }
 
 .icon {
-	font-family: 'Raleway';
+	font-family: 'Montserrat';
 	display: block;
-	color: #1bce7c;
+	color: #71a8ec;
 	font-size: 5em;
 	text-align: center;
 	vertical-align: middle;
@@ -482,10 +486,11 @@ h1.arrow {
 
 .features p {
 	color: #f9f9f9;
+    text-align: center;
 }
 
 .features h2 {
-	color: #1bce7c;
+	color: #71a8ec;
 	font-size: 1.2em;
     font-weight: 600;
 	letter-spacing: 0.2em;
@@ -544,7 +549,7 @@ figure.vimeo-video{
 }
 
 .block-hover:hover {
-	background:none repeat scroll 0 0 rgb(27, 217, 130);
+	background:none repeat scroll 0 0 rgb(113, 168, 236);
 	-webkit-transition: all .6s ;
 	-moz-transition: all .6s ;
 	-o-transition: all .6s ;
@@ -640,7 +645,7 @@ ul.social-buttons li:last-child {
 
 .social-btn:hover,
 .social-btn:focus {
-	background: #1bce7c;
+	background: #71a8ec;
 	color: #fff;
 }
 
@@ -663,7 +668,7 @@ blockquote p{
 }
 
 .team h2 {
-	color: #1bce7c;
+	color: #71a8ec;
     font-size: 1.2em;
     font-weight: 600;
     letter-spacing: 0.2em;
@@ -715,7 +720,7 @@ blockquote p{
 }
 
 .sp-dsc blockquote {
-	border-left-color: #1bce7c;
+	border-left-color: #71a8ec;
 }
 
 div.avatar {
@@ -754,7 +759,7 @@ div.avatar {
 	text-transform: uppercase;
 	letter-spacing: 0.2em;
 	font-size: 0.8em;
-	color: #1bce7c;
+	color: #71a8ec;
 }
 
 .sp-dsc {
@@ -780,7 +785,7 @@ div.avatar {
 /*********************/
 
 .btn-effect {
-	background: none repeat scroll 0 0 #1bd982;
+	background: none repeat scroll 0 0 #71a8ec;
 	border: medium none;
 	color: #fff;
 	letter-spacing: 0.2em;
@@ -799,7 +804,7 @@ div.avatar {
 	background: none repeat scroll 0 0 #fff;
 }
 .btn-effect:after {
-	background: none repeat scroll 0 0 #000;
+	background: none repeat scroll 0 0 #6597d4;
 	height: 0;
 	left: 0;
 	top: 0;
@@ -819,7 +824,7 @@ div.avatar {
 }
 
 #get_directions.btn-effect {
-	background: none repeat scroll 0 0 #1bd982;
+	background: none repeat scroll 0 0 #71a8ec;
     border: medium none;
     color: #fff;
     cursor: pointer;
@@ -835,7 +840,7 @@ div.avatar {
 }
 
 #get_directions.btn-effect:after {
-	background: none repeat scroll 0 0 #000;
+	background: none repeat scroll 0 0 #6597d4;
 	height: 0;
 	left: 0;
 	top: 0;
@@ -899,7 +904,7 @@ div.avatar {
 }
 
 .day {
-    color: #1bce7c;
+    color: #71a8ec;
     font-size: 1.1em;
     font-weight: 600;
     letter-spacing: 0.2em;
@@ -938,7 +943,7 @@ div.avatar {
 .accordion .item .heading .time {
 	border-top: 4px solid rgba(33, 39, 57, 0.15);
     box-sizing: border-box;
-    color: #1bd982;
+    color: #71a8ec;
     cursor: pointer;
     display: inline-block;
     float: left;
@@ -957,7 +962,7 @@ div.avatar {
 }
 
 .accordion .item.open .time {
-	color: #1bd982;
+	color: #71a8ec;
 }
 
 .accordion .item.open .heading .e-title {
@@ -974,7 +979,7 @@ div.avatar {
 
 .details {
 	padding: 20px 0px 20px 0px;
-	border-top: dotted 1px #1bd982;
+	border-top: dotted 1px #71a8ec;
 }
 
 .venue {
@@ -1008,14 +1013,14 @@ div.avatar {
 }
 
 .d-sch:hover{
-	color: #1bd982;
+	color: #71a8ec;
 }
 .fb:hover{
-	color: #1bd982;
+	color: #71a8ec;
 }
 
 .accordion .item.open .e-title {
-    color: #1bd982;
+    color: #71a8ec;
 }
 
 .container-schedule {
@@ -1027,7 +1032,7 @@ div.avatar {
 /** Registration Form **/
 /****************************/
 .swag {
-	background-color: darkslategray;
+	background-color: #231F20;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1053,18 +1058,19 @@ div.avatar {
 	-moz-border-radius: 50%;
 	-webkit-border-radius: 50%;
 	-o-border-radius: 50%;
-	background: rgba(27, 217, 130, 0.4);
+	background: rgba(113, 168, 236, 0.4);
 	display: inline-block;
 	margin: 10px auto 20px;
 	color: #fff;
 	font-size: 16px;
 	line-height: 40px;
 	text-align: center;
+    
 }
 
 .down-arrow-btn:hover, .down-arrow-btn:focus {
 	color: #fff;
-	background: rgba(27, 217, 130, 1);
+	background: rgba(113, 168, 236, 1);
 }
 
 .nl-form {
@@ -1103,7 +1109,7 @@ div.avatar {
 .nl-field-toggle, .nl-form input, .nl-form select {
 	line-height: inherit;
 	display: inline-block;
-	color: #1bd982;
+	color: #71a8ec;
 	cursor: pointer;
 	border-bottom: 1px dashed #567a69;
 }
@@ -1128,11 +1134,13 @@ div.avatar {
 }
 
 .nl-form .nl-submit {
-	 background: none repeat scroll 0 0 #1bd982;
+    background: none repeat scroll 0 0 #231F20;
+    border: 1px solid rgb(113,168,236);
     color: #fff;
     cursor: pointer;
-    font-size: 0.4em;
-    font-weight: 600;
+    font-family: 'Titillium Web';
+    font-size: .5em;
+    font-weight: 400;
     letter-spacing: 0.2em;
     padding: 12px;
     position: relative;
@@ -1141,7 +1149,7 @@ div.avatar {
 }
 
 .no-touch .nl-form .nl-submit:hover, .no-touch .nl-form .nl-submit:active {
-	background: rgba(27, 206, 124, 0.40);
+	background: rgba(113, 168, 236, 0.40);
 	transition: all 0.5s ease;
 	-moz-transition: all 0.5s ease;
 	-webkit-transition: all 0.5s ease;
@@ -1201,7 +1209,7 @@ div.avatar {
 }
 
 .nl-dd ul li.nl-dd-checked {
-	color: rgb(27, 206, 124);
+	color: rgb(113, 168, 236);
     opacity: 0.6;
 }
 
@@ -1224,7 +1232,7 @@ div.avatar {
 	font-variant: normal;
 	text-transform: none;
 	-webkit-font-smoothing: antialiased;
-	color: #1bce7c;
+	color: #71a8ec;
 }
 
 .nl-ti-text ul {
@@ -1344,7 +1352,7 @@ a {
 .md-content h3 {
 	margin: 0;
 	text-align: center;
-	color: #1bce7c;
+	color: #71a8ec;
     font-size: 1.3em;
     letter-spacing: 0.2em;
     text-transform: uppercase;
@@ -1394,7 +1402,7 @@ a {
 	background-color: transparent;
 	border: none;
 	cursor: pointer;
-	color: #1bd982;
+	color: #71a8ec;
 	-webkit-transition: all 0.5s;
 	-moz-transition: all 0.5s;
 	-o-transition: all 0.5s;
@@ -1463,11 +1471,12 @@ a {
 	background-color: #F3F5F8;
 	margin-top: 10px;
     padding-bottom: 20px;
-    height: 400px;
+    height: 440px;
 }
 
 .planContainer .title h2 {
 	background-color: #212739;
+    font-family: "Lato";
     color: #ffffff;
     font-size: 3em;
     font-weight: 600;
@@ -1476,7 +1485,7 @@ a {
 }
 
 .planContainer .title h2.bestPlanTitle {
-	background: #1bd982;
+	background: #71a8ec;
 	color: #212639;
 }
 
@@ -1524,7 +1533,7 @@ a {
 
 .planContainer .button a.bestPlanButton {
 	color: #212639;
-	background: #1bd982;
+	background: #71a8ec;
 
 }
 
@@ -1567,7 +1576,7 @@ ul.planContainer li.title {
 	display: block;
 	position: absolute;
 	z-index: 20;
-	background: rgba(27, 217, 130, 1);
+	background: rgba(113, 168, 236, 1);
 	overflow: hidden;
 	transition: all 0.5s;
 	-webkit-transition: all 0.5s;
@@ -1686,8 +1695,8 @@ ul.slides li {
 }
 
 .ignite-btn:hover, .ignite-btn:focus {
-	color: #3dc9b3;
-	border: solid 1px #3dc9b3;
+	color: #71a8ec;
+	border: solid 1px #71a8ec;
 }
 
 .sponsor {
@@ -1745,7 +1754,7 @@ ul.planContainer {
 }
 
 .planContainer a.bestPlanButton:hover {
-	background: #1BCE7C;
+	background: #71a8ec;
 	color: #fff;
 }
 
@@ -1817,7 +1826,7 @@ ul.planContainer {
 	background: none;
     border: medium none;
     border-radius: 0;
-    color: #1bce7c;
+    color: #71a8ec;
     font-size: 16px;
     font-weight: 600;
     height: 35px;
@@ -1849,7 +1858,7 @@ ul.planContainer {
 
 	background:none;
 	border: none;
-	color: #1bce7c;
+	color: #71a8ec;
 
 }
 
@@ -1857,7 +1866,7 @@ ul.planContainer {
 	outline:0 none;
 	border:0 none;
 	background:none;
-	color: #1bce7c;
+	color: #71a8ec;
 }
 
 .subscribe button span {
@@ -1909,7 +1918,7 @@ ul.planContainer {
 	
 }
 .notify-success #message {
-    color: #1bce7c;
+    color: #71a8ec;
     font-size: 1.1em;
     margin-top: 10px;
 	text-transform:capitalize;
@@ -1940,7 +1949,7 @@ ul.planContainer {
 
 
 #result .success{
-    color: #1bce7c;
+    color: #71a8ec;
     font-size: 0.43em;
 	text-transform:capitalize;
 	position: absolute; 
@@ -1952,7 +1961,7 @@ ul.planContainer {
 }
 
 .success{
-	color: #1bce7c;
+	color: #71a8ec;
 	text-align: center;
 	left: 0px;
 	margin-top: 15px;
@@ -2002,7 +2011,7 @@ ul.planContainer {
 }
 
 .contact-details h2 span {
-	color: #1bce7c;
+	color: #71a8ec;
     display: block;
     font-size: 0.8em;
     font-weight: 600;
@@ -2036,16 +2045,16 @@ ul.planContainer {
 }
 
 .light-box {
-	-webkit-box-shadow: 0px -1px 0px 0px #1bce7c;
-	-moz-box-shadow: 0px -1px 0px 0px #1bce7c;
-	box-shadow: 0px -1px 0px 0px #1bce7c;
+	-webkit-box-shadow: 0px -1px 0px 0px #71a8ec;
+	-moz-box-shadow: 0px -1px 0px 0px #71a8ec;
+	box-shadow: 0px -1px 0px 0px #71a8ec;
 	padding: 20px 0;
 }
 
 .light-box:hover, .light-box:focus {
-	-webkit-box-shadow: 0px 5px 0px 0px #1bce7c;
-	-moz-box-shadow: 0px 5px 0px 0px #1bce7c;
-	box-shadow: 0px 5px 0px 0px #1bce7c;
+	-webkit-box-shadow: 0px 5px 0px 0px #71a8ec;
+	-moz-box-shadow: 0px 5px 0px 0px #71a8ec;
+	box-shadow: 0px 5px 0px 0px #71a8ec;
 }
 
 .box-hover {

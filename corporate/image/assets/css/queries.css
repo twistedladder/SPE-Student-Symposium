@@ -328,9 +328,9 @@ display:none;
     -o-transform: none;
     -webkit-transform: none;
     transform: none;
-    -moz-box-shadow: 0 -1px 0 0 #1BCE7C;
-    -webkit-box-shadow: 0 -1px 0 0 #1BCE7C;
-    box-shadow: 0 -1px 0 0 #1BCE7C
+    -moz-box-shadow: 0 -1px 0 0 #71a8ec;
+    -webkit-box-shadow: 0 -1px 0 0 #71a8ec;
+    box-shadow: 0 -1px 0 0 #71a8ec
     }
 
 .box-hover {
