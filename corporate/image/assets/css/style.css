@@ -1,21 +1,13 @@
 #swag{
     
 }
-<<<<<<< HEAD
-.jfk-button, .jfk-button-action {
-    position:relative;
-    left:9em;
-    bottom:7em;
-    font-family: 'Titillium Web';
-    letter-spacing: .2em;
-=======
+
 .jfk-button, .jfk-button-action{
     position:relative;
     left:9em;
     bottom:7em; 
     font-family: 'Titillium Web'; 
     letter-spacing: .2em; 
->>>>>>> origin/master
     text-transform: uppercase;
 }
 
