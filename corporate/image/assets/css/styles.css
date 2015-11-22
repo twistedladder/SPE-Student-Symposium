@@ -1032,7 +1032,7 @@ div.avatar {
 /** Registration Form **/
 /****************************/
 .swag {
-	background-color: #231F20;
+	background-color: #212639;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -1134,7 +1134,7 @@ div.avatar {
 }
 
 .nl-form .nl-submit {
-    background: none repeat scroll 0 0 #231F20;
+    background: none repeat scroll 0 0 #212639;
     border: 1px solid rgb(113,168,236);
     color: #fff;
     cursor: pointer;
