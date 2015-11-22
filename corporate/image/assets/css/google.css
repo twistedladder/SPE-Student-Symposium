@@ -5,9 +5,9 @@ input[type="submit"] {
   color: #333;
   text-shadow: 0 1px 0 #fff;
   white-space: nowrap;
-  font-family: "Titillium Web";
+  font-family: 'Titillium Web';
   font-weight: 400;
-  font-size: 13px;
+  font-size: 14px;
   text-align: center;
   vertical-align: middle;
   -webkit-background-clip: padding;
