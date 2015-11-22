@@ -1,8 +1,13 @@
 #swag{
     
 }
-.jfk-button, .jfk-button-action {
-    position:relative;left:9em;bottom:7em; font-family: 'Lato'; letter-spacing: .2em; text-transform: uppercase;
+.jfk-button, .jfk-button-action{
+    position:relative;
+    left:9em;
+    bottom:7em; 
+    font-family: 'Titillium Web'; 
+    letter-spacing: .2em; 
+    text-transform: uppercase;
 }
 .ss-form-question label { 
     width: 25%; float: left; margin: 3px 0 3px 0; 
