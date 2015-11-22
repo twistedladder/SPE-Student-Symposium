@@ -1534,6 +1534,7 @@ ul.social-buttons li a:active {
 .planContainer .price p {
 	background: none repeat scroll 0 0 #2a3049;
     color: #fff;
+    font-family: 'Lato';
     font-size: 1.2em;
     font-weight: 500;
     height: 2.6em;
